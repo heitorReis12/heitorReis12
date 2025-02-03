@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é {Heitor Reis}!
+## 💜 Olá, meu nome é Heitor Reis!
 
 web developer
 
